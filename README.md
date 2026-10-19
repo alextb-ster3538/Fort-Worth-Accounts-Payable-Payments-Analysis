@@ -3,8 +3,6 @@
 
 
 
-# Fort Worth Accounts Payable Payment Analysis
-
 ## Data Source
 
 Fort Worth AP Check Register Data
