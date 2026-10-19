@@ -1,3 +1,8 @@
+
+<img width="1600" height="500" alt="fort-worth-ap-banner" src="https://github.com/user-attachments/assets/f230c65e-3194-438c-8b37-3516d551c632" />
+
+
+
 # Fort Worth Accounts Payable Payment Analysis
 
 ## Data Source
